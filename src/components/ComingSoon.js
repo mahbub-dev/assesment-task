@@ -20,3 +20,4 @@ export function comingSoon() {
     </div>
   );
 }
+export default comingSoon
